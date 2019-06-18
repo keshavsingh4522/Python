@@ -1,5 +1,5 @@
 >>>#python poem
-...import this
+...import this \n
 The Zen of Python, by Tim Peters
 
 Beautiful is better than ugly.
