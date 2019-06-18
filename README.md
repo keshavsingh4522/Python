@@ -1,4 +1,4 @@
->>>#python poem
+\>>>#python poem
 
 ...import this
 
