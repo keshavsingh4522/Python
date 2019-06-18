@@ -11,3 +11,12 @@ for i in range(1,n+1):
    print(n-i+2+c,sep="",end='')
    c+=1
   print()
+'''
+output:
+enter a number: 5
+555555555
+544444445
+543333345
+543222345
+543212345
+'''
