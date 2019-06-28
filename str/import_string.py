@@ -8,7 +8,6 @@
 >>> a=string.ascii_letters
 >>> a
 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
->>> a=string.digit
 >>> a=string.digits
 >>> a
 '0123456789'
