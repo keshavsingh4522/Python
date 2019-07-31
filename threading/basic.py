@@ -27,9 +27,22 @@ for i in l:
     t.start()
 print(x)
 '''
-output:
+output1:
 -20000
 0-30000
 
 00
+
+output2:
+15000
+-30000
+
+0
+0
+output3:
+-20000
+0
+-30000
+0
+0
 '''
