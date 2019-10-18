@@ -1,6 +1,3 @@
-                    
-                    
-                #keshav_singh    !!!
 \>>>#python poem
 
 ...import this
