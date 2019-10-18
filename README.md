@@ -1,7 +1,6 @@
-# The Modules of Python
-\>>>#python poem
+# basic Python
 
-...import this
+###### import this
 
 The Zen of Python, by Tim Peters
 
