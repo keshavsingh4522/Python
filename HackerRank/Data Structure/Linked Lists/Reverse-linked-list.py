@@ -13,17 +13,16 @@ class LinkedList:
             while temp:
                 print(temp.data)
                 temp=temp.next
-    def display_reverse(self,head):
-        if head:
-            self.display_reverse(head.next)
-            print(head.data)
-    def InsertAtHead(self,n):
-        if self.start is None:
-            self.start=node(n)
-        else:
-            temp=self.start
-            self.start=node(n)
-            self.start.next=temp
+    def reversing_linked_list(self):
+        current=self.start
+        previous=None
+        while current:
+            temp=current.next
+            current.next=previous
+            previous=current
+            current=temp
+        self.start=previous
+                
 l=LinkedList()
 for _ in range(int(input())):
     n=int(input())
@@ -33,4 +32,8 @@ for _ in range(int(input())):
     else:
         ptr.next=node(n)
         ptr=ptr.next
-l.display_reverse(l.start)
+print('Linked Lists')
+l.display()
+print('Linked Lists After Reversing')
+l.reversing_linked_list()
+l.display()
