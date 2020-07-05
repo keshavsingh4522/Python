@@ -1,0 +1,381 @@
+year,sector,class,variable1,variable2,units,magnitude,source,data_value,flag
+2009,Central government,Total,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,1.2,R
+2010,Central government,Total,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,1.2,R
+2011,Central government,Total,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,1.1,R
+2012,Central government,Total,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,1.1,R
+2013,Central government,Total,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,1.2,R
+2014,Central government,Total,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,1.1,R
+2015,Central government,Total,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,1.2,R
+2016,Central government,Total,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,1.1,R
+2017,Central government,Total,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,1.2,P
+2018,Central government,Total,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,1.2,P
+2009,Central government,Total,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,408,R
+2010,Central government,Total,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,420,R
+2011,Central government,Total,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,399,R
+2012,Central government,Total,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,411,R
+2013,Central government,Total,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,438,R
+2014,Central government,Total,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,440,R
+2015,Central government,Total,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,465,R
+2016,Central government,Total,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,457,R
+2017,Central government,Total,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,520,P
+2018,Central government,Total,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,542,P
+2009,Central government,Total,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,0.3,R
+2010,Central government,Total,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,1.9,R
+2011,Central government,Total,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,1.5,R
+2012,Central government,Total,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,1.4,R
+2013,Central government,Total,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,1.6,R
+2014,Central government,Total,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,1,R
+2015,Central government,Total,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,0.8,R
+2016,Central government,Total,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,0.6,R
+2017,Central government,Total,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,0.7,P
+2018,Central government,Total,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,0.6,P
+2009,Central government,Total,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,13,R
+2010,Central government,Total,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,102,R
+2011,Central government,Total,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,90,R
+2012,Central government,Total,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,74,R
+2013,Central government,Total,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,79,R
+2014,Central government,Total,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,57,R
+2015,Central government,Total,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,50,R
+2016,Central government,Total,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,44,R
+2017,Central government,Total,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,44,P
+2018,Central government,Total,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,54,P
+2009,Central government,Total,Total,Final consumption expenditure,Dollars,Millions,National Accounts,33202,R
+2010,Central government,Total,Total,Final consumption expenditure,Dollars,Millions,National Accounts,34079,R
+2011,Central government,Total,Total,Final consumption expenditure,Dollars,Millions,National Accounts,35360,R
+2012,Central government,Total,Total,Final consumption expenditure,Dollars,Millions,National Accounts,36678,R
+2013,Central government,Total,Total,Final consumption expenditure,Dollars,Millions,National Accounts,37290,R
+2014,Central government,Total,Total,Final consumption expenditure,Dollars,Millions,National Accounts,38672,R
+2015,Central government,Total,Total,Final consumption expenditure,Dollars,Millions,National Accounts,40387,R
+2016,Central government,Total,Total,Final consumption expenditure,Dollars,Millions,National Accounts,41752,R
+2017,Central government,Total,Total,Final consumption expenditure,Dollars,Millions,National Accounts,43525,P
+2018,Central government,Total,Total,Final consumption expenditure,Dollars,Millions,National Accounts,45940,P
+2009,Central government,Total,Total,Gross fixed capital formation,Dollars,Millions,National Accounts,5243,F
+2010,Central government,Total,Total,Gross fixed capital formation,Dollars,Millions,National Accounts,5486,F
+2011,Central government,Total,Total,Gross fixed capital formation,Dollars,Millions,National Accounts,5941,F
+2012,Central government,Total,Total,Gross fixed capital formation,Dollars,Millions,National Accounts,5155,F
+2013,Central government,Total,Total,Gross fixed capital formation,Dollars,Millions,National Accounts,4864,F
+2014,Central government,Total,Total,Gross fixed capital formation,Dollars,Millions,National Accounts,5898,F
+2015,Central government,Total,Total,Gross fixed capital formation,Dollars,Millions,National Accounts,6437,F
+2016,Central government,Total,Total,Gross fixed capital formation,Dollars,Millions,National Accounts,6743,F
+2017,Central government,Total,Total,Gross fixed capital formation,Dollars,Millions,National Accounts,6518,P
+2018,Central government,Total,Total,Gross fixed capital formation,Dollars,Millions,National Accounts,8298,P
+2009,General government,Total,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,3.5,R
+2010,General government,Total,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,3.2,R
+2011,General government,Total,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,3.3,R
+2012,General government,Total,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,3.2,R
+2013,General government,Total,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,3.4,R
+2014,General government,Total,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,3.3,R
+2015,General government,Total,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,3.2,R
+2016,General government,Total,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,3.2,R
+2017,General government,Total,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,3.3,P
+2018,General government,Total,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,3.3,P
+2009,General government,Total,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,1309,R
+2010,General government,Total,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,1233,R
+2011,General government,Total,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,1327,R
+2012,General government,Total,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,1337,R
+2013,General government,Total,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,1422,R
+2014,General government,Total,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,1438,R
+2015,General government,Total,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,1468,R
+2016,General government,Total,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,1515,R
+2017,General government,Total,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,1646,P
+2018,General government,Total,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,1692,P
+2009,General government,Total,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,9.3,R
+2010,General government,Total,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,9,R
+2011,General government,Total,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,5.9,R
+2012,General government,Total,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,8.6,R
+2013,General government,Total,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,11.7,R
+2014,General government,Total,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,8.7,R
+2015,General government,Total,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,9.7,R
+2016,General government,Total,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,9.1,R
+2017,General government,Total,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,8.1,P
+2018,General government,Total,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,7.3,P
+2009,General government,Total,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,763,R
+2010,General government,Total,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,777,R
+2011,General government,Total,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,504,R
+2012,General government,Total,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,660,R
+2013,General government,Total,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,958,R
+2014,General government,Total,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,792,R
+2015,General government,Total,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,950,R
+2016,General government,Total,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,924,R
+2017,General government,Total,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,815,P
+2018,General government,Total,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,867,P
+2009,General government,Total,Total,Final consumption expenditure,Dollars,Millions,National Accounts,37478,R
+2010,General government,Total,Total,Final consumption expenditure,Dollars,Millions,National Accounts,38433,R
+2011,General government,Total,Total,Final consumption expenditure,Dollars,Millions,National Accounts,40061,R
+2012,General government,Total,Total,Final consumption expenditure,Dollars,Millions,National Accounts,41715,R
+2013,General government,Total,Total,Final consumption expenditure,Dollars,Millions,National Accounts,42154,R
+2014,General government,Total,Total,Final consumption expenditure,Dollars,Millions,National Accounts,43631,R
+2015,General government,Total,Total,Final consumption expenditure,Dollars,Millions,National Accounts,45557,R
+2016,General government,Total,Total,Final consumption expenditure,Dollars,Millions,National Accounts,47229,R
+2017,General government,Total,Total,Final consumption expenditure,Dollars,Millions,National Accounts,49226,P
+2018,General government,Total,Total,Final consumption expenditure,Dollars,Millions,National Accounts,51912,P
+2009,General government,Total,Total,Gross fixed capital formation,Dollars,Millions,National Accounts,8161,F
+2010,General government,Total,Total,Gross fixed capital formation,Dollars,Millions,National Accounts,8665,F
+2011,General government,Total,Total,Gross fixed capital formation,Dollars,Millions,National Accounts,8529,F
+2012,General government,Total,Total,Gross fixed capital formation,Dollars,Millions,National Accounts,7669,F
+2013,General government,Total,Total,Gross fixed capital formation,Dollars,Millions,National Accounts,8201,F
+2014,General government,Total,Total,Gross fixed capital formation,Dollars,Millions,National Accounts,9087,F
+2015,General government,Total,Total,Gross fixed capital formation,Dollars,Millions,National Accounts,9800,F
+2016,General government,Total,Total,Gross fixed capital formation,Dollars,Millions,National Accounts,10163,F
+2017,General government,Total,Total,Gross fixed capital formation,Dollars,Millions,National Accounts,10063,P
+2018,General government,Total,Total,Gross fixed capital formation,Dollars,Millions,National Accounts,11904,P
+2009,Local government,Air and water quality,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,1.3,F
+2010,Local government,Air and water quality,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,1.1,F
+2011,Local government,Air and water quality,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,1.2,F
+2012,Local government,Air and water quality,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,1.2,F
+2013,Local government,Air and water quality,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,1.4,F
+2014,Local government,Air and water quality,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,1.6,F
+2015,Local government,Air and water quality,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,1.7,F
+2016,Local government,Air and water quality,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,2.2,F
+2017,Local government,Air and water quality,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,1.8,P
+2018,Local government,Air and water quality,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,1.9,P
+2009,Local government,Air and water quality,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,57,F
+2010,Local government,Air and water quality,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,48,F
+2011,Local government,Air and water quality,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,56,F
+2012,Local government,Air and water quality,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,61,F
+2013,Local government,Air and water quality,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,69,F
+2014,Local government,Air and water quality,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,81,F
+2015,Local government,Air and water quality,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,87,F
+2016,Local government,Air and water quality,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,121,F
+2017,Local government,Air and water quality,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,101,P
+2018,Local government,Air and water quality,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,113,P
+2009,Local government,Air and water quality,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,0.1,F
+2010,Local government,Air and water quality,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,0.1,F
+2011,Local government,Air and water quality,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,0.2,F
+2012,Local government,Air and water quality,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,0.2,F
+2013,Local government,Air and water quality,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,0.1,F
+2014,Local government,Air and water quality,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,0.1,F
+2015,Local government,Air and water quality,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,0.1,F
+2016,Local government,Air and water quality,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,0.1,F
+2017,Local government,Air and water quality,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,0.2,P
+2018,Local government,Air and water quality,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,0.1,P
+2009,Local government,Air and water quality,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,3,F
+2010,Local government,Air and water quality,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,4,F
+2011,Local government,Air and water quality,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,4,F
+2012,Local government,Air and water quality,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,4,F
+2013,Local government,Air and water quality,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,2,F
+2014,Local government,Air and water quality,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,3,F
+2015,Local government,Air and water quality,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,3,F
+2016,Local government,Air and water quality,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,3,F
+2017,Local government,Air and water quality,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,5,P
+2018,Local government,Air and water quality,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,5,P
+2009,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,3.6,F
+2010,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,2.2,F
+2011,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,2.4,F
+2012,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,2.9,R
+2013,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,2.8,F
+2014,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,2.4,R
+2015,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,2.7,R
+2016,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,2.2,R
+2017,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,2.3,P
+2018,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,2.3,P
+2009,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,153,F
+2010,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,97,F
+2011,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,112,F
+2012,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,148,F
+2013,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,134,F
+2014,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,121,F
+2015,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,142,F
+2016,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,122,F
+2017,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,130,P
+2018,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,135,P
+2009,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,1,F
+2010,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,0.8,F
+2011,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,1.5,F
+2012,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,1.9,F
+2013,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,3.4,F
+2014,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,1.2,F
+2015,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,1.4,F
+2016,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,3.9,F
+2017,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,1.4,P
+2018,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,3.2,P
+2009,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,29,F
+2010,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,24,F
+2011,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,39,F
+2012,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,48,F
+2013,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,113,F
+2014,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,40,F
+2015,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,46,F
+2016,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,134,F
+2017,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,48,P
+2018,Local government,"Flood, river, land and soil management",Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,117,P
+2009,Local government,Pest Management,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,0.8,F
+2010,Local government,Pest Management,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,0.5,F
+2011,Local government,Pest Management,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,0.5,F
+2012,Local government,Pest Management,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,0.5,F
+2013,Local government,Pest Management,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,0.8,F
+2014,Local government,Pest Management,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,0.5,F
+2015,Local government,Pest Management,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,0.6,F
+2016,Local government,Pest Management,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,0.6,F
+2017,Local government,Pest Management,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,0.7,P
+2018,Local government,Pest Management,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,0.7,P
+2009,Local government,Pest Management,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,33,F
+2010,Local government,Pest Management,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,23,F
+2011,Local government,Pest Management,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,24,F
+2012,Local government,Pest Management,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,26,F
+2013,Local government,Pest Management,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,41,F
+2014,Local government,Pest Management,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,27,F
+2015,Local government,Pest Management,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,32,F
+2016,Local government,Pest Management,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,33,F
+2017,Local government,Pest Management,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,41,P
+2018,Local government,Pest Management,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,45,P
+2009,Local government,Pest Management,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,0,F
+2010,Local government,Pest Management,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,0,F
+2011,Local government,Pest Management,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,0,F
+2012,Local government,Pest Management,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,0,F
+2013,Local government,Pest Management,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,0,F
+2014,Local government,Pest Management,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,0,F
+2015,Local government,Pest Management,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,0,F
+2016,Local government,Pest Management,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,0,F
+2017,Local government,Pest Management,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,0,P
+2018,Local government,Pest Management,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,0,P
+2009,Local government,Pest Management,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,1,F
+2010,Local government,Pest Management,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,1,F
+2011,Local government,Pest Management,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,0,F
+2012,Local government,Pest Management,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,1,F
+2013,Local government,Pest Management,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,1,F
+2014,Local government,Pest Management,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,1,F
+2015,Local government,Pest Management,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,0,F
+2016,Local government,Pest Management,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,0,F
+2017,Local government,Pest Management,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,0,P
+2018,Local government,Pest Management,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,0,P
+2009,Local government,Solid waste/refuse,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,3.8,F
+2010,Local government,Solid waste/refuse,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,3.4,F
+2011,Local government,Solid waste/refuse,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,3.9,R
+2012,Local government,Solid waste/refuse,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,3.3,R
+2013,Local government,Solid waste/refuse,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,2.7,F
+2014,Local government,Solid waste/refuse,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,3,R
+2015,Local government,Solid waste/refuse,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,3,R
+2016,Local government,Solid waste/refuse,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,3.5,R
+2017,Local government,Solid waste/refuse,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,2.9,P
+2018,Local government,Solid waste/refuse,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,2.7,P
+2009,Local government,Solid waste/refuse,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,161,F
+2010,Local government,Solid waste/refuse,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,146,F
+2011,Local government,Solid waste/refuse,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,185,F
+2012,Local government,Solid waste/refuse,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,168,F
+2013,Local government,Solid waste/refuse,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,130,F
+2014,Local government,Solid waste/refuse,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,150,F
+2015,Local government,Solid waste/refuse,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,157,F
+2016,Local government,Solid waste/refuse,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,193,F
+2017,Local government,Solid waste/refuse,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,164,P
+2018,Local government,Solid waste/refuse,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,161,P
+2009,Local government,Solid waste/refuse,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,2.1,F
+2010,Local government,Solid waste/refuse,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,0.7,F
+2011,Local government,Solid waste/refuse,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,1.4,F
+2012,Local government,Solid waste/refuse,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,0.9,F
+2013,Local government,Solid waste/refuse,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,0.6,F
+2014,Local government,Solid waste/refuse,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,0.2,F
+2015,Local government,Solid waste/refuse,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,0.3,F
+2016,Local government,Solid waste/refuse,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,0.9,F
+2017,Local government,Solid waste/refuse,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,0.5,P
+2018,Local government,Solid waste/refuse,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,0.2,P
+2009,Local government,Solid waste/refuse,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,62,F
+2010,Local government,Solid waste/refuse,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,22,F
+2011,Local government,Solid waste/refuse,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,36,F
+2012,Local government,Solid waste/refuse,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,23,F
+2013,Local government,Solid waste/refuse,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,19,F
+2014,Local government,Solid waste/refuse,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,5,F
+2015,Local government,Solid waste/refuse,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,12,F
+2016,Local government,Solid waste/refuse,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,29,F
+2017,Local government,Solid waste/refuse,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,17,P
+2018,Local government,Solid waste/refuse,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,9,P
+2009,Local government,Total,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,21.1,F
+2010,Local government,Total,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,18.7,F
+2011,Local government,Total,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,19.7,R
+2012,Local government,Total,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,18.4,R
+2013,Local government,Total,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,20.2,R
+2014,Local government,Total,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,20.1,R
+2015,Local government,Total,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,19.4,R
+2016,Local government,Total,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,19.3,R
+2017,Local government,Total,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,19.8,P
+2018,Local government,Total,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,19.3,P
+2009,Local government,Total,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,901,F
+2010,Local government,Total,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,812,F
+2011,Local government,Total,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,928,F
+2012,Local government,Total,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,926,F
+2013,Local government,Total,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,984,F
+2014,Local government,Total,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,999,F
+2015,Local government,Total,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,1003,F
+2016,Local government,Total,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,1058,F
+2017,Local government,Total,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,1126,P
+2018,Local government,Total,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,1150,P
+2009,Local government,Total,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,25.7,F
+2010,Local government,Total,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,21.3,F
+2011,Local government,Total,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,16,F
+2012,Local government,Total,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,23.3,F
+2013,Local government,Total,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,26.3,F
+2014,Local government,Total,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,23,F
+2015,Local government,Total,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,26.7,F
+2016,Local government,Total,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,25.7,F
+2017,Local government,Total,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,21.8,P
+2018,Local government,Total,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,22.6,P
+2009,Local government,Total,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,750,F
+2010,Local government,Total,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,676,F
+2011,Local government,Total,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,414,F
+2012,Local government,Total,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,586,F
+2013,Local government,Total,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,879,F
+2014,Local government,Total,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,734,F
+2015,Local government,Total,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,899,F
+2016,Local government,Total,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,880,F
+2017,Local government,Total,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,771,P
+2018,Local government,Total,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,813,P
+2009,Local government,Total,Total,Final consumption expenditure,Dollars,Millions,National Accounts,4276,R
+2010,Local government,Total,Total,Final consumption expenditure,Dollars,Millions,National Accounts,4354,R
+2011,Local government,Total,Total,Final consumption expenditure,Dollars,Millions,National Accounts,4701,R
+2012,Local government,Total,Total,Final consumption expenditure,Dollars,Millions,National Accounts,5037,R
+2013,Local government,Total,Total,Final consumption expenditure,Dollars,Millions,National Accounts,4864,R
+2014,Local government,Total,Total,Final consumption expenditure,Dollars,Millions,National Accounts,4959,R
+2015,Local government,Total,Total,Final consumption expenditure,Dollars,Millions,National Accounts,5170,R
+2016,Local government,Total,Total,Final consumption expenditure,Dollars,Millions,National Accounts,5477,R
+2017,Local government,Total,Total,Final consumption expenditure,Dollars,Millions,National Accounts,5701,P
+2018,Local government,Total,Total,Final consumption expenditure,Dollars,Millions,National Accounts,5972,P
+2009,Local government,Total,Total,Gross fixed capital formation,Dollars,Millions,National Accounts,2918,F
+2010,Local government,Total,Total,Gross fixed capital formation,Dollars,Millions,National Accounts,3179,F
+2011,Local government,Total,Total,Gross fixed capital formation,Dollars,Millions,National Accounts,2588,F
+2012,Local government,Total,Total,Gross fixed capital formation,Dollars,Millions,National Accounts,2514,F
+2013,Local government,Total,Total,Gross fixed capital formation,Dollars,Millions,National Accounts,3337,F
+2014,Local government,Total,Total,Gross fixed capital formation,Dollars,Millions,National Accounts,3189,F
+2015,Local government,Total,Total,Gross fixed capital formation,Dollars,Millions,National Accounts,3363,F
+2016,Local government,Total,Total,Gross fixed capital formation,Dollars,Millions,National Accounts,3420,F
+2017,Local government,Total,Total,Gross fixed capital formation,Dollars,Millions,National Accounts,3545,P
+2018,Local government,Total,Total,Gross fixed capital formation,Dollars,Millions,National Accounts,3606,P
+2009,Local government,Wastewater,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,11.6,F
+2010,Local government,Wastewater,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,11.5,F
+2011,Local government,Wastewater,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,11.7,R
+2012,Local government,Wastewater,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,10.4,R
+2013,Local government,Wastewater,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,12.5,R
+2014,Local government,Wastewater,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,12.5,R
+2015,Local government,Wastewater,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,11.3,R
+2016,Local government,Wastewater,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,10.8,R
+2017,Local government,Wastewater,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,12.1,P
+2018,Local government,Wastewater,Environmental protection expenditure,Final consumption expenditure,Proportion,Actual,Environmental Accounts,11.7,P
+2009,Local government,Wastewater,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,497,F
+2010,Local government,Wastewater,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,499,F
+2011,Local government,Wastewater,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,550,F
+2012,Local government,Wastewater,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,524,F
+2013,Local government,Wastewater,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,610,F
+2014,Local government,Wastewater,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,619,F
+2015,Local government,Wastewater,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,585,F
+2016,Local government,Wastewater,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,590,F
+2017,Local government,Wastewater,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,691,P
+2018,Local government,Wastewater,Environmental protection expenditure,Final consumption expenditure,Dollars,Millions,Environmental Accounts,696,P
+2009,Local government,Wastewater,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,22.4,F
+2010,Local government,Wastewater,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,19.6,F
+2011,Local government,Wastewater,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,12.9,F
+2012,Local government,Wastewater,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,20.3,F
+2013,Local government,Wastewater,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,22.3,F
+2014,Local government,Wastewater,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,21.5,F
+2015,Local government,Wastewater,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,24.9,F
+2016,Local government,Wastewater,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,20.9,F
+2017,Local government,Wastewater,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,19.8,P
+2018,Local government,Wastewater,Environmental protection expenditure,Gross fixed capital formation,Proportion,Actual,Environmental Accounts,18.9,P
+2009,Local government,Wastewater,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,655,F
+2010,Local government,Wastewater,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,625,F
+2011,Local government,Wastewater,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,334,F
+2012,Local government,Wastewater,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,510,F
+2013,Local government,Wastewater,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,744,F
+2014,Local government,Wastewater,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,685,F
+2015,Local government,Wastewater,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,839,F
+2016,Local government,Wastewater,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,714,F
+2017,Local government,Wastewater,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,700,P
+2018,Local government,Wastewater,Environmental protection expenditure,Gross fixed capital formation,Dollars,Millions,Environmental Accounts,683,P
