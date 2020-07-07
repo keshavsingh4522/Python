@@ -1,7 +1,43 @@
 [keshav](https://www.google.com)
 
 <details>
-<summary>Want to ruin the surprise?</summary>
+<summary>Codechef</summary>
 <br>
-Well, you asked for it!
+  ke
+</details>
+
+<details>
+<summary>Coderbyte</summary>
+<br>
+  ke
+</details>
+
+<details>
+<summary>Coursera</summary>
+<br>
+  ke
+</details>
+
+<details>
+<summary>Datacamp</summary>
+<br>
+  ke
+</details>
+
+<details>
+<summary>GeeksForGeeks</summary>
+<br>
+  ke
+</details>
+
+<details>
+<summary>HackerRank</summary>
+<br>
+  ke
+</details>
+
+<details>
+<summary>LeetCode</summary>
+<br>
+  ke
 </details>
