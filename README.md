@@ -1,43 +1,58 @@
-# basic Python
+[keshav](https://www.google.com)
 
-###### import this
+<details open>
+<summary>1. Codechef</summary>
+<br>
 
-The Zen of Python, by Tim Peters
+  <details open>
+  <summary>July 2020Long Challenge</summary>
+  <br>
+      Problems name | link
+      _________________________________________|_________________________________________
+      [Chef and Card Game] | (https://github.com/keshavsingh4522/Python/blob/master/Codechef/July%202020/Chef%20and%20Card%20Game.py)
+      [Chef and Strings] | (https://github.com/keshavsingh4522/Python/blob/master/Codechef/July%202020/Chef%20and%20Strings.py)
+      [Summery] | (https://github.com/keshavsingh4522/Python/blob/master/Codechef/July%202020/JULY_2020.ipynb)
+  </details>
 
-Beautiful is better than ugly.
+  <details>
+  <summary>June 2020Long Challenge</summary>
+  <br>
+    ke
+  </details>
+</details>
 
-Explicit is better than implicit.
+<details>
+<summary>Coderbyte</summary>
+<br>
+  ke
+</details>
 
-Simple is better than complex.
+<details>
+<summary>Coursera</summary>
+<br>
+  ke
+</details>
 
-Complex is better than complicated.
+<details>
+<summary>Datacamp</summary>
+<br>
+  ke
+</details>
 
-Flat is better than nested.
+<details>
+<summary>GeeksForGeeks</summary>
+<br>
+  ke
+</details>
 
-Sparse is better than dense.
+<details>
+<summary>HackerRank</summary>
+<br>
+  ke
+</details>
 
-Readability counts.
-
-Special cases aren't special enough to break the rules.
-
-Although practicality beats purity.
-
-Errors should never pass silently.
-
-Unless explicitly silenced.
-
-In the face of ambiguity, refuse the temptation to guess.
-
-There should be one-- and preferably only one --obvious way to do it.
-
-Although that way may not be obvious at first unless you're Dutch.
-
-Now is better than never.
-
-Although never is often better than *right* now.
-
-If the implementation is hard to explain, it's a bad idea.
-
-If the implementation is easy to explain, it may be a good idea.
-
-Namespaces are one honking great idea -- let's do more of those!
+<details>
+<summary>LeetCode</summary>
+<br>
+  ke
+</details>
