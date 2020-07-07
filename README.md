@@ -3,10 +3,10 @@
 <details open>
 <summary>1. Codechef</summary>
 <br>
-  <details open>
-  <summary>June 2020Long Challenge</summary>
-  <br>
-      <a href="https://github.com/keshavsingh4522/Python/blob/master/Codechef/July%202020/Chef%20and%20Card%20Game.py">[Chef and Card Game]</a>
+   <details open>
+   <summary> > June 2020Long Challenge</summary>
+   <br>
+      >> <a href="https://github.com/keshavsingh4522/Python/blob/master/Codechef/July%202020/Chef%20and%20Card%20Game.py">[Chef and Card Game]</a>
   </details>
 </details>
 
