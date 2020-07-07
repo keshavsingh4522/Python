@@ -2,8 +2,9 @@
 [Chef and Card Game](https://github.com/keshavsingh4522/Python/blob/master/Codechef/July%202020/Chef%20and%20Card%20Game.py)
 <details open>
 <summary>1. Codechef</summary>
-   + June 2020Long Challenge
-      + <a href="https://github.com/keshavsingh4522/Python/blob/master/Codechef/July%202020/Chef%20and%20Card%20Game.py">[Chef and Card Game]</a>
+   <ul>June 2020Long Challenge
+      <li><a href="https://github.com/keshavsingh4522/Python/blob/master/Codechef/July%202020/Chef%20and%20Card%20Game.py">[Chef and Card Game]</a></li>
+   </ul>
 </details>
 
 <details>
