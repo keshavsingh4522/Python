@@ -41,3 +41,8 @@
 <br>
   ke
 </details>
+
+---
+
+[![HitCount](http://hits.dwyl.com/keshavsingh4522/Python.svg)](http://hits.dwyl.com/keshavsingh4522/Python)
+
