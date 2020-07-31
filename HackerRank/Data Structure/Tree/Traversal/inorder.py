@@ -1,5 +1,5 @@
-def display(head):
+def inorder(head):
     if head:
-        display(head.left)
+        inorder(head.left)
         print(head.data)
-        display(head.right)
+        inorder(head.right)
