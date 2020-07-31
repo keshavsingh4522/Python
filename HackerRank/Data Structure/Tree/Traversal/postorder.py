@@ -1,5 +1,5 @@
 def postorder(head):
     if head:
-        display(head.left)
-        display(head.right)
+        postorder(head.left)
+        postorder(head.right)
         print(head.data)
