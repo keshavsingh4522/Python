@@ -5,6 +5,6 @@
  | -------- | -------- |
  | ![](Assets/star_1_0.png) | ![](Assets/star_1_1.png) |
  
-| cool_design |
-| ----------- |
-| ![](Assets/cool_design.png) |
+| cool_design | cool_design_1_1 |
+| ----------- | --------------- | 
+| ![](Assets/cool_design.png) | ![](Assets/cool_design_1_1.png) |
