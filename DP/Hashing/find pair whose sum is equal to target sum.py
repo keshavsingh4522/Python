@@ -1,6 +1,5 @@
-'''
-find pair whose sum is equal to target sum
-'''
+''' find pair whose sum is equal to target sum '''
+
 from collections import defaultdict
 n=int(input())
 a=defaultdict(list)
