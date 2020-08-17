@@ -95,7 +95,7 @@ Since there are 2 edges in this graph, output will be 2.
 
 #include <bits/stdc++.h>
 using namespace std;
-                     
+
 #define int             long long
 #define endl            '\n'
 
@@ -109,20 +109,20 @@ int get(int x)
 }
 
 void sol()
-{   
+{
     int x,y;
     cin>>x>>y;
     if(x<y)swap(x,y);
     if(x==y){cout<<0;return;}
     map<int,int> m;
-    
+
     int c=0;
     while(x!=1)
     {
         c++;
         x=get(x);
         m[x]=c;
-    } 
+    }
     c=0;
     while(!m.count(y))
     {
@@ -132,8 +132,8 @@ void sol()
     cout<<c+m[y];
 }
 int32_t main()
-{   
+{
 ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
     sol();
     return 0;
-}   
+}

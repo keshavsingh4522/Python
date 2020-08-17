@@ -11,7 +11,9 @@ Imagine you are a martial arts fighter fighting with fellow martial artists to w
 
 o All your opponents are standing inone line next to each other i.e. the order of opponents is fixed
 
-o Your first task is to choose a suitable opponent from this lineoWhen you choose one opponent from that line, he steps out of the line and fights you.
+o Your first task is to choose a suitable opponent from this line
+
+o When you choose one opponent from that line, he steps out of the line and fights you.
 
 o After you beat him, you get to decide how your prize money for winning against him will be calculated
 
