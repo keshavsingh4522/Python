@@ -2,7 +2,7 @@ f=input('Enter file name: ')
 try:
     file=open(f,'r')
 except:
-    print('file can not be opend: ',f)
+    print('File can not be opened: ',f)
     quit()
-print('file opened successfully')
+print('File opened successfully!')
 file.close()
