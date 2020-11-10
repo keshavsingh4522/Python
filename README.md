@@ -60,20 +60,21 @@
 <summary>HackerRank</summary>
 <br>
   <ul>
-    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Coderbyte">Main</a></li>
-    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Coderbyte">Main</a></li>
-    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Coderbyte">Main</a></li>
+    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/HackerRank/30%20Days%20of%20Code">30 Days of Code</a></li>
+    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/HackerRank/Algorithms">Algorithms</a></li>
+    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/HackerRank/Contest(Asia%20Specific)">Contest(Asia Specific)</a></li>
+    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/HackerRank/Data%20Structure">Data Structures</a></li>
+    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/HackerRank/Interview%20Preparation%20Kit">Interview Preparation Kit</a></li>
+    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/HackerRank/Practise">Pratice</li>
+    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/HackerRank/String">String</li>
+    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/HackerRank/Virtusa">Virtusa</li>
   </ul>
 </details>
 
 <details>
 <summary>LeetCode</summary>
 <br>
-  <ul>
-    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Coderbyte">Main</a></li>
-    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Coderbyte">Main</a></li>
-    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Coderbyte">Main</a></li>
-  </ul>
+  
 </details>
 
 ---
