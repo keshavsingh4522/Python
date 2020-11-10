@@ -34,31 +34,47 @@
 <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Coursera/Python%20for%20applied%20Data%20Science%20and%20AI">Python For Applied Data Science And AI</a></li>
 <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Coursera/Tools%20for%20Data%20Science">Tools for Data Science</a></li>
 </ul>
-  
 </details>
 
 <details>
 <summary>Datacamp</summary>
 <br>
-  ke
+  <ul>
+    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Datacamp/IntermediatePython">Intermediate Python</a></li>
+    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Datacamp/Intoduction%20to%20seaorn">Introduction to Seaorn</a></li>
+    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Datacamp/Pandas%20Foundations">Pandas Foundation</a></li>
+    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Datacamp/write_a_function">write_a_function</a></li>
+  </ul>
 </details>
 
 <details>
 <summary>GeeksForGeeks</summary>
 <br>
-  ke
+  <ul>
+    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Coderbyte">Main</a></li>
+    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Coderbyte">Main</a></li>
+    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Coderbyte">Main</a></li>
+  </ul>
 </details>
 
 <details>
 <summary>HackerRank</summary>
 <br>
-  ke
+  <ul>
+    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Coderbyte">Main</a></li>
+    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Coderbyte">Main</a></li>
+    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Coderbyte">Main</a></li>
+  </ul>
 </details>
 
 <details>
 <summary>LeetCode</summary>
 <br>
-  ke
+  <ul>
+    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Coderbyte">Main</a></li>
+    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Coderbyte">Main</a></li>
+    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Coderbyte">Main</a></li>
+  </ul>
 </details>
 
 ---
