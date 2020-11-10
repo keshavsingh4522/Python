@@ -5,7 +5,7 @@
  This respository has ml,ai,nlp,data science etc.python language related material from many websites eg. datacamp,geeksforgeeks,linkedin,youtube,udemy etc. also it includes programming challenge/competition solutions
  <br><br>
 
-<details open>
+<details>
 <summary>1. Codechef</summary>
    <ul>
       <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Codechef/August%202020">August 2020 Long Challenge</a></li>
