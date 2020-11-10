@@ -51,9 +51,8 @@
 <summary>GeeksForGeeks</summary>
 <br>
   <ul>
-    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Coderbyte">Main</a></li>
-    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Coderbyte">Main</a></li>
-    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Coderbyte">Main</a></li>
+    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/GeeksForGeeks/Fork%20Python">Fork Python</a></li>
+    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/GeeksForGeeks/Sudo%20Placement%202019">Sudo Placement 2020</a></li>
   </ul>
 </details>
 
