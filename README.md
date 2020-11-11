@@ -65,9 +65,9 @@
     <li><a href="https://github.com/keshavsingh4522/Python/tree/master/HackerRank/Contest(Asia%20Specific)">Contest(Asia Specific)</a></li>
     <li><a href="https://github.com/keshavsingh4522/Python/tree/master/HackerRank/Data%20Structure">Data Structures</a></li>
     <li><a href="https://github.com/keshavsingh4522/Python/tree/master/HackerRank/Interview%20Preparation%20Kit">Interview Preparation Kit</a></li>
-    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/HackerRank/Practise">Pratice</li>
-    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/HackerRank/String">String</li>
-    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/HackerRank/Virtusa">Virtusa</li>
+    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/HackerRank/Practise">Pratice</a></li>
+    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/HackerRank/String">String</a></li>
+    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/HackerRank/Virtusa">Virtusa</a></li>
   </ul>
 </details>
 
@@ -75,11 +75,11 @@
 <summary>LeetCode</summary>
 <br>
   <ul>
-    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/LeetCode/August%20Leetcode%20Challenge">August Leetcode Challenge</li>
-    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/LeetCode/July%20LeetCoding%20Challenge%202020">July Leetcode Challenge</li>
-    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/LeetCode/Practice">Practice</li>
-    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/LeetCode/Problems">Problems</li>
-    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/LeetCode/September%20Leetcode%20Challenge">September Leetcode Challenge</li>
+    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/LeetCode/August%20Leetcode%20Challenge">August Leetcode Challenge</a></li>
+    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/LeetCode/July%20LeetCoding%20Challenge%202020">July Leetcode Challenge</a></li>
+    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/LeetCode/Practice">Practice</a></li>
+    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/LeetCode/Problems">Problems</a></li>
+    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/LeetCode/September%20Leetcode%20Challenge">September Leetcode Challenge</a></li>
   </ul>
 </details>
 
