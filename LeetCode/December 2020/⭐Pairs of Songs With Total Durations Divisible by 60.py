@@ -1,3 +1,4 @@
+#https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/570/week-2-december-8th-december-14th/3559/
 class Solution:
     def numPairsDivisibleBy60(self, time: List[int]) -> int:
         c=0
