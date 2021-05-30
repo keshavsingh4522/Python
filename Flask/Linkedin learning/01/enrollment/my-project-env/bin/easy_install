@@ -1,0 +1,10 @@
+#!/bin/sh
+'''exec' "/media/keshav/34215f5d-52f7-4e3f-840a-be10f6d27b0d/Github/My data/Flask/30-05-2021/enrollment/my-project-env/bin/python3" "$0" "$@"
+' '''
+# -*- coding: utf-8 -*-
+import re
+import sys
+from setuptools.command.easy_install import main
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(main())

@@ -1,0 +1,30 @@
+{% extends "_Layout.html" %}
+{% block content %}
+<div class="container">
+	<table class="table table-condensed">
+		<thead>
+			<tr>
+				<th>Id </th>
+				<th>Title</th>
+				<th>Description</th>
+				<th>credits</th>
+				<th>term</th>
+				<th></th>
+			</tr>
+		</thead>
+		<tbody>
+			{% for data in courseData %}
+			<tr>
+				<td>{{data.id}}</td>
+				<td>{{data['title']}}</td>
+				<td>{{data.description}}</td>
+				<td>{{data.credits}}</td>
+				<td>{{data['term']}}</td>
+				<td><button class="btn btn-success">Enroll</button></td>
+			</tr>
+			{% endfor %}
+			
+		</tbody>
+	</table>
+</div>
+{% endblock %}
