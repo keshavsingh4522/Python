@@ -1,0 +1,22 @@
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">WebSiteName</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="{%if index%}active{%endif%}"><a href="{{url_for('index')}}">Home</a></li>
+      <li class="dropdown"><a class="dropdown-toggle {%if index%}active{%endif%}" data-toggle="dropdown" href="#">Page 1 <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="#">Page 1-1</a></li>
+          <li><a href="#">Page 1-2</a></li>
+          <li><a href="#">Page 1-3</a></li>
+        </ul>
+      </li>
+      <li><a href="{{url_for('courses')}} {%if index%}active{%endif%}">Courses</a></li>
+    </ul>
+    <ul class="nav navbar-nav navbar-right">
+      <li><a href="{{url_for('register')}}"><span class="glyphicon glyphicon-user {%if index%}active{%endif%}"></span> Sign Up</a></li>
+      <li><a href="{{url_for('login')}}"><span class="glyphicon glyphicon-log-in {%if index%}active{%endif%}"></span> Login</a></li>
+    </ul>
+  </div>
+</nav>

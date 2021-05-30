@@ -1,0 +1,17 @@
+
+{% extends "_Layout.html" %}
+
+{% block content %}
+
+<div class="row">
+  <div class="col-12 text-center">
+    <h1>Hi welcome to this page! </h1>
+    {% if login %}
+    <h3>Let's get started</h3>
+    {% else %}
+    <p>Already Registered? <a href="{{url_for('login')}}">login</a></p>
+    {% endif %}
+  </div>
+</div>
+
+{% endblock %}
