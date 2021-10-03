@@ -19,14 +19,16 @@ a = [1, 1, 1, 1, 0.545, 0.583]
 
 # This is a method that searches for the least difference between the each criteria of two vectors.
 def get_min_diff(arr1, arr2):
-  min = 1e10
-  if (len(arr1) != len(arr2)):
-    return min
-  for i in range(len(arr1)):
+  min_value = 1e10
+  len_arr1 = len(arr1)
+  len_arr2 = len(arr2)
+  if (len_arr1 != len_arr2):
+    return min_value
+  for i in range(len_arr1):
     diff = arr1[i] - arr2[i]
-    if min > diff:
-      min = diff
-      return min
+    if min_value > diff:
+      min_value = diff
+      return min_value
 
 # This is method performs optimization and find Pareto optimal vectors.
 def pareto(arr):
@@ -56,11 +58,11 @@ print(pareto(data), '\n')
 def linconv(f, a):
   print('Calculation of the linear convolution:')
   res = []
-  for i in range(len(f)):
-    sum = 0
-    for j in range(len(f[i])):
-      sum += f[i][j] * a[j]
-    res.append(sum)
+  for i in f:
+    sum_value = 0
+    for j in range(len(i)):
+      sum_value += i[j] * a[j]
+    res.append(sum_value)
   max_index = res.index(max(res))
   print('optimal vector:', f[max_index])
   print('value of the linear convolution for the optimal vector:', res[max_index], '\n')
@@ -69,13 +71,13 @@ def linconv(f, a):
 def maxmin(f, a):
   print('Calculation of the maxmin convolution:')
   mins = []
-  for i in range(len(f)):
-    min = 10e10
-    for j in range(len(f[i])):
-      res = f[i][j] * a[j]
-      if res < min:
-        min = res
-    mins.append(min)
+  for i in f:
+    min_val = 10e10
+    for j in range(len(i)):
+      res = i[j] * a[j]
+      if res < min_val:
+        min_val = res
+    mins.append(min_val)
   max_index = mins.index(max(mins))
   print('optimal vector:', f[max_index])
   print('minimal value of the optimal vector:', mins[max_index])
