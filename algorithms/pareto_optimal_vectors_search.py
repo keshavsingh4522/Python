@@ -60,7 +60,8 @@ def linconv(f, a):
   res = []
   for i in f:
     sum_value = 0
-    for j in range(len(i)):
+    criteria_length = len(i)
+    for j in range(criteria_length):
       sum_value += i[j] * a[j]
     res.append(sum_value)
   max_index = res.index(max(res))
@@ -73,7 +74,8 @@ def maxmin(f, a):
   mins = []
   for i in f:
     min_val = 10e10
-    for j in range(len(i)):
+    criteria_length = len(i)
+    for j in range(criteria_length):
       res = i[j] * a[j]
       if res < min_val:
         min_val = res
