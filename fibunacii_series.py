@@ -1,13 +1,10 @@
-n=int(input("enter a number: "))
-a=0
-b=1
-for i in range(n):
-  print(a,'\t',end='')
-  t=a+b
-  a=b
-  b=t
-'''
-output:
-enter a number: 15
-0 	1 	1 	2 	3 	5 	8 	13 	21 	34 	55 	89 	144 	233 	377 	
-'''
+def fib(x):
+    """ assumes x an int >= 0
+        returns fibonacci of x
+    """
+    if x == 0 or x == 1:
+        return 1
+    else:
+        return fib(x -1) + fib(x - 2)
+
+fib(15)
