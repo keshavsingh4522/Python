@@ -17,7 +17,7 @@ def getLevel():
                 print("Enter number is the proper range")
             else:
                 break
-        except:
+        except ValueError:
             print("Enter numbers")
     return level
 
