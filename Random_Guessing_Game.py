@@ -23,13 +23,4 @@ else:
     print("Restart the game and try with number within 1 to 10")
 
     
-//if the guessed number is 8
-//Enter your number:4
-//Please try higher value
-//Enter your number:5
-//Please try higher value
-//Enter your number:6
-//Please try higher value
-//Enter your number:8
-//You have won!!!
-  
+
