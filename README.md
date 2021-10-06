@@ -2,11 +2,11 @@
 
 <!-- [Chef and Card Game](https://github.com/keshavsingh4522/Python/blob/master/Codechef/July%202020/Chef%20and%20Card%20Game.py) -->
 <h1> Coding Repository</h2>
- This respository has ml,ai,nlp,data science etc.python language related material from many websites eg. datacamp,geeksforgeeks,linkedin,youtube,udemy etc. also it includes programming challenge/competition solutions
+ This respository has ML, AI, NLP, Data science and Python related material from many websites such as <a href="https://www.datacamp.com">Datacamp</a>, <a href="https://www.geeksforgeeks.org">GeeksforGeeks</a>, <a href="https://www.linkedin.com">Linkedin</a>, <a href="https://www.youtube.com">Youtube</a>, <a href="https://www.udemy.com">Udemy</a> etc. It includes programming challenge/competition solutions.
  <br><br>
 
 <details>
-<summary>1. Codechef</summary>
+<summary>Codechef</summary>
    <ul>
       <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Codechef/August%202020">August 2020 Long Challenge</a></li>
       <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Codechef">July 2020 COOKOFF</a></li>
@@ -38,7 +38,6 @@
 
 <details>
 <summary>Datacamp</summary>
-<br>
   <ul>
     <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Datacamp/IntermediatePython">Intermediate Python</a></li>
     <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Datacamp/Intoduction%20to%20seaorn">Introduction to Seaorn</a></li>
@@ -49,7 +48,6 @@
 
 <details>
 <summary>GeeksForGeeks</summary>
-<br>
   <ul>
     <li><a href="https://github.com/keshavsingh4522/Python/tree/master/GeeksForGeeks/Fork%20Python">Fork Python</a></li>
     <li><a href="https://github.com/keshavsingh4522/Python/tree/master/GeeksForGeeks/Sudo%20Placement%202019">Sudo Placement 2020</a></li>
@@ -58,7 +56,6 @@
 
 <details>
 <summary>HackerRank</summary>
-<br>
   <ul>
     <li><a href="https://github.com/keshavsingh4522/Python/tree/master/HackerRank/30%20Days%20of%20Code">30 Days of Code</a></li>
     <li><a href="https://github.com/keshavsingh4522/Python/tree/master/HackerRank/Algorithms">Algorithms</a></li>
@@ -73,7 +70,6 @@
 
 <details>
 <summary>LeetCode</summary>
-<br>
   <ul>
     <li><a href="https://github.com/keshavsingh4522/Python/tree/master/LeetCode/August%20Leetcode%20Challenge">August Leetcode Challenge</a></li>
     <li><a href="https://github.com/keshavsingh4522/Python/tree/master/LeetCode/July%20LeetCoding%20Challenge%202020">July Leetcode Challenge</a></li>
