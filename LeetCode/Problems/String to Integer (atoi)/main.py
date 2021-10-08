@@ -2,9 +2,9 @@ import re
 pattern = '.*?([+-]?\d+)'
 
 class Solution:
-    def myAtoi(self, str: str) -> int:
+    def myAtoi(self, string: str) -> int:
         result = re.match(pattern, str)
-        lstr = str.rstrip().lstrip()
+        lstr = string.rstrip().lstrip()
         if not result:
             return 0
         if not(lstr[:len(result.group(1))] == result.group(1)):
