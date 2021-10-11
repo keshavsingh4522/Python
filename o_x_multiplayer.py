@@ -1,15 +1,14 @@
 def detect_trio(dic):
-    con1=dic[3]==dic[1] and dic[1]==dic[2] and not(dic[1]==" " or dic[1]=="_")
-    con2=dic[4]==dic[5] and dic[5]==dic[6] and not(dic[5]==" " or dic[5]=="_") or con1
-    con3=dic[7]==dic[8] and dic[8]==dic[9] and not(dic[8]==" " or dic[8]=="_") or con2
-    con4=dic[1]==dic[4] and dic[4]==dic[7] and not(dic[4]==" " or dic[4]=="_") or con3
-    con5=dic[2]==dic[5] and dic[5]==dic[8] and not(dic[5]==" " or dic[5]=="_") or con4
-    con6=dic[3]==dic[6] and dic[6]==dic[9] and not(dic[6]==" " or dic[6]=="_") or con5
-    con7=dic[1]==dic[5] and dic[5]==dic[9] and not(dic[5]==" " or dic[5]=="_") or con6
-    con8=dic[3]==dic[5] and dic[5]==dic[7] and not(dic[5]==" " or dic[5]=="_") or con7
-    if con8:
+    con=False
+    for i in range(1,8,3):
+        con=con or dic[i]==dic[i+1] and dic[i+1]==dic[i+2] and not(dic[i]==" " or dic[i]=="_")
+    for i in range(1,4):
+        con=con or dic[i]==dic[i+3] and dic[i+3]==dic[i+6] and not(dic[i]==" " or dic[i]=="_")
+    con=dic[1]==dic[5] and dic[5]==dic[9] and not(dic[5]==" " or dic[5]=="_") or con
+    con=dic[3]==dic[5] and dic[5]==dic[7] and not(dic[5]==" " or dic[5]=="_") or con
+    if con:
         return True
-    
+    return False    
 print('_1_|_2_|_3_')
 print("_4_|_5_|_6_")
 print(" 7 | 8 | 9 ")
@@ -43,5 +42,5 @@ while i<9 and gameon:
         if detect_trio(dic):
             gameon=False
             print(f"Player {(i+1)%2+1} Won !!")
-    except:
-        print('Please provide valid input')
+    except ValueError:
+        print('Please provide integer input')
