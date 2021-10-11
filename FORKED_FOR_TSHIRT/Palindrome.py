@@ -1,12 +1,5 @@
-def reverse(s): 
-    return s[::-1] 
-  
-def isPalindrome(s): 
-    # Calling reverse function 
-    rev = reverse(s) 
-  
-    # Checking if both string are equal or not 
-    if (s == rev): 
+def isPalindrome(s):
+    if(s[:] == s[::-1]):
         return True
     return False
   
