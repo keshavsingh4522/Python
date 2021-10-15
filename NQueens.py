@@ -88,4 +88,3 @@ def solveNQ():
 # driver program to test above function
 solveNQ()
 
-# This code is contributed by Divyanshu Mehta
