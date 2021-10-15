@@ -75,5 +75,4 @@ if __name__ == '__main__':
 
 	print('Minimum number of steps required is',
 							minSteps(n, m, d))
-	
-# This code is contributed by Sanket Badhe
+
