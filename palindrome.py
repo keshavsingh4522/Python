@@ -1,10 +1,16 @@
 def checkIfPalindrome(s):
     return s == s[::-1]
     
-s = "A Santa Lived As a Devil At NASA"
+n=int(input())
+s=input()
 ans = checkIfPalindrome(s)
+ans2 = checkIfPalindrome(str(n))
  
 if ans:
-    print("Yes")
+    print("Yes the string is a palindrome")
 else:
-    print("No")
+    print("No the string is a palindrome")
+if ans2:
+    print("Yes the number is a palindrome")
+else:
+    print("No the number is a palindrome")
