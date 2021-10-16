@@ -5,6 +5,8 @@ for i in range(2,n//2+1):
   c+=1
   print("not prime")
   break
+if c>0:
+ pass
 else:
  print("prime")
 '''
