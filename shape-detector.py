@@ -3,9 +3,10 @@ import numpy as np
 from urllib.request import urlopen
 
 
-req = urlopen('https://cdn-skill.splashmath.com/panel-uploads/GlossaryTerm/4bc3434bc7ce461f9963d97ffa438091/1564644832_area-of-shape-1.png')
-arr = np.asarray(bytearray(req.read()), dtype=np.uint8)
-img = cv2.imdecode(arr, -1)
+# req = urlopen('https://cdn-skill.splashmath.com/panel-uploads/GlossaryTerm/4bc3434bc7ce461f9963d97ffa438091/1564644832_area-of-shape-1.png')
+# arr = np.asarray(bytearray(req.read()), dtype=np.uint8)
+# img = cv2.imdecode(arr, -1)
+img = cv2.imread('1564644832_area-of-shape-1.png')
 img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 _, threshold = cv2.threshold(img, 200, 255, cv2.THRESH_BINARY)
 contours, _ = cv2.findContours(threshold, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
