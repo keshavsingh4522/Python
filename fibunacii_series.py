@@ -1,8 +1,10 @@
-n=int(input("enter a number: "))
+n=int(input("Enter a number: "))
 a=0
 b=1
+if n>0:
+  print("The following are",n,"number of elemnts in a fibonacci series")
 for i in range(n):
-  print(a,'\t',end='')
+  print(a,end=' ')
   t=a+b
   a=b
   b=t
