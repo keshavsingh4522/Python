@@ -16,10 +16,7 @@ class CRect(object):
         self.center = ( int((self.right+self.left)*0.5),  int((self.top+self.bottom)*0.5) )
 
     def isValid(self):
-        if self.bR[0] > self.tL[0] and self.bR[1] > self.tL[1]:
-            return True
-        else:
-            return False
+        return self.bR[0] > self.tL[0] and self.bR[1] > self.tL[1]
 
 
 class ColorDetector(object):
@@ -50,13 +47,13 @@ class ColorDetector(object):
         return min_max_list
 
     def teach_color(self, insp_img):
-        str = "Webcam View"
+        win_str = "Webcam View"
         canvas_img = insp_img.copy()
         hsv_img = cv2.cvtColor(insp_img, cv2.COLOR_BGR2HSV)
-        cv2.putText(canvas_img, "Draw a rectangle inside target object", (5, 30), cv2.FONT_HERSHEY_SIMPLEX, 1, DARK_RED, 2, cv2.LINE_AA)
-        cv2.putText(canvas_img, "Press 'Enter' once done", (5, 60), cv2.FONT_HERSHEY_SIMPLEX, 1, DARK_RED, 2, cv2.LINE_AA)
-        cv2.namedWindow(str, cv2.WINDOW_NORMAL)
-        x, y, w, h = cv2.selectROI(str, canvas_img, False)
+        cv2.putText(canvas_img, "Draw a rectangle inside target object", (5, 30), cv2.FONT_HERSHEY_SIMPLEX, 1, (125,125,125), 2, cv2.LINE_AA)
+        cv2.putText(canvas_img, "Press 'Enter' once done", (5, 60), cv2.FONT_HERSHEY_SIMPLEX, 1, (125,125, 125), 2, cv2.LINE_AA)
+        cv2.namedWindow(win_str, cv2.WINDOW_NORMAL)
+        x, y, w, h = cv2.selectROI(win_str, canvas_img, False)
         self.teach_flag = True
 
         if w is not 0 and h is not 0:
@@ -107,7 +104,8 @@ class CameraFeed(object):
     def __imshow(self, window_string , image_source, time=None):
         cv2.namedWindow(window_string, cv2.WINDOW_NORMAL)
         cv2.imshow(window_string, image_source)
-        cv2.waitKey(time) if time is not None else None
+        if time:
+            cv2.waitKey(time)
 
 
 if __name__ == '__main__':
