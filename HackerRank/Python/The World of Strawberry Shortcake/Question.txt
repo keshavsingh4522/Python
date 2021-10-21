@@ -1,0 +1,47 @@
+The World of Strawberry Shortcakelocked
+Problem
+
+In Strawberryland lives Strawberry Shortcake, with her calico cat Custard. On her sixth birthday, Strawberry's friends decided to invite ‘n’ guests over and arrange three varieties of desserts for the party – a box with 6 Raspbberry Tarts, a box with 8 Blueberry Muffins and a box with 10 Apple Dumplings. It takes 15, 20 and 25 minutes, respectively, to bake each box.
+
+If they want to bake as many boxes so that each guest gets atleast one of the desserts from any box, can you help them determine the minimum baking time required to make boxes with atleast n items altogether?
+
+For example:
+
+if 12 guests come to the party, there should be a minimum of 12 desserts, which could be two boxes of Raspberry Tarts, containing exactly 12 of them. Here, the minimum baking time would be 30 minutes.
+if 15 guests come to the party, there should be a minimum of 15 desserts, which could be one box of Raspberry Tart and one box of Apple Dumplings, altogether containing 16 desserts. Here, the minimum baking time would be 40 minutes.
+if 300 guests come to the party, there should be a minimum of 300 desserts, which could be fifteen boxes of Raspberry Tart, ten boxes of Blueberry Muffins and thirteen boxes of Apple Dumplings, altogether containing 300 desserts. Here, the minimum baking time would be 750 minutes.
+if only one guest comes to the party, there could be just one box of Raspberry Tart, and the baking time would be 15 minutes.
+Input Format
+
+The first line contains a single integer t — the number of testcases.
+
+Each testcase consists of a single line that contains a single integer n — the baking time required.
+
+Constraints
+
+1  t  
+
+1  n  
+
+Output Format
+
+For each testcase, print one integer — the minimum number of minutes that is needed to create boxes containing at least n desserts in total.
+
+Sample Input 0
+
+6
+12
+15
+300
+1
+9999999999999999
+3
+
+Sample Output 0
+
+30
+40
+750
+15
+25000000000000000
+15
