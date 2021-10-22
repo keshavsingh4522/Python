@@ -13,7 +13,7 @@ class Error:
         while True:
             try:
                 x = int(input())
-            except(...):
+            except:
                 print("need to be int ")
             else:
                 if x > have_Chip:
