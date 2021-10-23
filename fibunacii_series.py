@@ -3,9 +3,7 @@ a=0
 b=1
 for i in range(n):
   print(a,'\t',end='')
-  t=a+b
-  a=b
-  b=t
+  a, b = b, a+b
 '''
 output:
 enter a number: 15
