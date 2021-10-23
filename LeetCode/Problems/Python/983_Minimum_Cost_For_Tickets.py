@@ -1,5 +1,5 @@
 class Solution:
-    def mincostTickets(self, days: List[int], costs: List[int]) -> int:
+    def mincostTickets(self, days, costs):
         n = len(days)
         if(n == 1):
             return min(costs)
