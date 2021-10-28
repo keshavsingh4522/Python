@@ -1,0 +1,10 @@
+/*PS
+Write a program to find the remainder when an integer A is divided by an integer B.
+*/
+T = int(input())
+flag = 0
+while(flag != T):
+    (x,y)=map(int, input().split())
+    remainder = x % y
+    flag += 1
+    print(remainder)
