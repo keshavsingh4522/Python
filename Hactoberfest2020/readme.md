@@ -1,1 +1,0 @@
-Hactoberfest 2020
