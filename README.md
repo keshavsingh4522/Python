@@ -6,7 +6,7 @@
  <br><br>
 
 <details>
-<summary>1. Codechef</summary>
+<summary>Codechef</summary>
    <ul>
       <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Codechef/August%202020">August 2020 Long Challenge</a></li>
       <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Codechef">July 2020 COOKOFF</a></li>
