@@ -1,0 +1,26 @@
+# Program to print find next palindrome
+# function to check palindrome
+
+def isPalindrome(num):
+	n = num
+	rev = 0
+
+	while (num > 0):
+		k = num % 10
+		rev = (rev * 10) + k
+		num = num // 10
+
+	if (n == rev):
+		return True
+	else:
+		return False
+
+num = int(input("enter the no: "))
+num = num + 1
+
+while (True):
+	if (isPalindrome(num)):
+		break
+	num = num + 1
+print("The Next Palindrome number is:",num)
+
