@@ -2,7 +2,7 @@
 
 <!-- [Chef and Card Game](https://github.com/keshavsingh4522/Python/blob/master/Codechef/July%202020/Chef%20and%20Card%20Game.py) -->
 <h1> Coding Repository</h2>
- This respository has ml,ai,nlp,data science etc.python language related material from many websites eg. datacamp,geeksforgeeks,linkedin,youtube,udemy etc. also it includes programming challenge/competition solutions
+ This respository has ML, AI, NLP, Data Science, etc. Python language related material from many websites eg. DataCamp, GeeksforGeeks, LinkedIn, YouTube, Udemy etc. it also includes programming challenge/competition solutions.
  <br><br>
 
 <details>
@@ -31,7 +31,7 @@
 <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Coursera/Data%20Visualization%20with%20Python">Data Visualization with Python</a></li>
 <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Coursera/Databases%20and%20SQL%20for%20Data%20Science">Database and SQL For Data Science</a></li>
 <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Coursera/Python%20Data%20Structures">Python Data Structures</a></li>
-<li><a href="https://github.com/keshavsingh4522/Python/tree/master/Coursera/Python%20for%20applied%20Data%20Science%20and%20AI">Python For Applied Data Science And AI</a></li>
+<li><a href="https://github.com/keshavsingh4522/Python/tree/master/Coursera/Python%20for%20applied%20Data%20Science%20and%20AI">Python For Applied Data Science and AI</a></li>
 <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Coursera/Tools%20for%20Data%20Science">Tools for Data Science</a></li>
 </ul>
 </details>
@@ -41,7 +41,7 @@
 <br>
   <ul>
     <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Datacamp/IntermediatePython">Intermediate Python</a></li>
-    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Datacamp/Intoduction%20to%20seaorn">Introduction to Seaorn</a></li>
+    <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Datacamp/Intoduction%20to%20seaorn">Introduction to Seaborn</a></li>
     <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Datacamp/Pandas%20Foundations">Pandas Foundation</a></li>
     <li><a href="https://github.com/keshavsingh4522/Python/tree/master/Datacamp/write_a_function">write_a_function</a></li>
   </ul>
