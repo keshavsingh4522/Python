@@ -1,16 +1,20 @@
-def f(n):
- if n==0:
-  return
- def g(t):
-   if t==0:
-     return
-   g(t-1)
-   print(t,end=' ')
- f(n-1)
- g(n)
- print()
-n=int(input('enter a number: '))
-f(n)
+def print_numbers(n):
+    if n == 0:
+        return
+
+    def print_recursive(t):
+        if t == 0:
+            return
+        print_recursive(t - 1)
+        print(t, end=' ')
+
+    print_numbers(n - 1)
+    print_recursive(n)
+    print()
+
+n = int(input('Enter a number: '))
+print_numbers(n)
+
 '''
 output:
 enter a number: 7
